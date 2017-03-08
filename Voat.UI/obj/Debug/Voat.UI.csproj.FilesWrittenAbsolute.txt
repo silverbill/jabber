@@ -1,0 +1,4 @@
+/Users/bryansory/Code/voat/voat/Voat/Voat.UI/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/bryansory/Code/voat/voat/Voat/Voat.UI/bin/Microsoft.Web.Infrastructure.dll
+/Users/bryansory/Code/voat/voat/Voat/Voat.UI/bin/Voat.RulesEngine.dll
+/Users/bryansory/Code/voat/voat/Voat/Voat.UI/bin/Voat.RulesEngine.dll.mdb

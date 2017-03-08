@@ -1,0 +1,6 @@
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/bin/Debug/Voat.RulesEngine.dll.config
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/bin/Debug/Voat.RulesEngine.dll.mdb
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/bin/Debug/Voat.RulesEngine.dll
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/obj/Debug/Voat.RulesEngine.dll
+/Users/bryansory/Code/voat/voat/Voat/Voat.RulesEngine/obj/Debug/Voat.RulesEngine.dll.mdb

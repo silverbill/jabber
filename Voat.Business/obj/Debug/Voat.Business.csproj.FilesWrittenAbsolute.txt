@@ -1,0 +1,1 @@
+/Users/bryansory/Code/voat/voat/Voat/Voat.Business/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs

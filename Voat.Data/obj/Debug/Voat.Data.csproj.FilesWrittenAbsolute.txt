@@ -1,0 +1,2 @@
+/Users/bryansory/Code/voat/voat/Voat/Voat.Data/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/bryansory/Code/voat/voat/Voat/Voat.Data/bin/Debug/Microsoft.Web.Infrastructure.dll
